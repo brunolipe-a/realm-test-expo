@@ -5,6 +5,12 @@
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "android": {
+      "package": "com.bfaa1999.realmtest"
+    },
+    "ios": {
+      "bundleIdentifier": "com.bfaa1999.realmtest"
+    }
   }
 }
